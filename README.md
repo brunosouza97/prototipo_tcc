@@ -1,2 +1,1 @@
-# prototipo_tcc
-Protótipo de Trabalho de Conclusão de Curso
+# Protótipo de Trabalho de Conclusão de Curso
